@@ -8,9 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mybatis-generator" />
-        <module name="cloud-consumers-order80" />
+        <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="cloudalibaba-provider-payment9001" />
         <module name="cloud-api-commons" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloud-provider-payment8001" />
+        <module name="cloudalibaba-sentienel-service8401" />
+        <module name="cloud-consumers-order80" />
         <module name="cloud-gateway9527" />
         <module name="cloud-consumer-feign-order80" />
       </profile>
